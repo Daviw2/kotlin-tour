@@ -1,6 +1,6 @@
 /*
  * KOTLIN TOUR — ATIVIDADES RESOLVIDAS
- * Arquivo consolidado para entrega acadêmica.
+ * 
  *
  * Beginner + Intermediate
  *
